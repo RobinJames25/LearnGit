@@ -6,7 +6,7 @@ console.log(a)
 /*myName="Obiri";
 myName=5;
 */
-console.log(myName);
+/*console.log(myName);
 
 let myNumber=5;
 //myNumber===5;
@@ -17,3 +17,12 @@ if(myNumber===5){
 else{
     console.log("False")
 }
+*/
+let a=6, b=7
+let sum=a+b
+let product=a*b
+let division=a/b
+let difference=a-b
+
+
+console.log("Sum:",sum  ,"Product:",product, "Division:",division , "Subtraction:",difference)
