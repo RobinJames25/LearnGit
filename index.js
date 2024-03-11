@@ -18,6 +18,7 @@ else{
     console.log("False")
 }
 */
+/*
 let a=6, b=7
 let sum=a+b
 let product=a*b
@@ -25,4 +26,13 @@ let division=a/b
 let difference=a-b
 
 
-console.log("Sum:",sum  ,"Product:",product, "Division:",division , "Subtraction:",difference)
+console.log("Sum:",sum ,"Product:",product, "Division:",division , "Subtraction:",difference)
+*/
+
+function sum(a,b)
+{
+     
+     let sum=a+b
+    console.log(a+b)
+}
+sum(24,65)
