@@ -29,10 +29,27 @@ let difference=a-b
 console.log("Sum:",sum ,"Product:",product, "Division:",division , "Subtraction:",difference)
 */
 
-function sum(a,b)
+/*function sum(a,b)
 {
      
      let sum=a+b
     console.log(a+b)
 }
 sum(24,65)
+*/
+
+  
+function dl(myName, myAge){
+    if (myAge>=18 && myAge<=72){
+        console.log(myName,"Eligable For Driving Licence")
+    }
+    else{
+        console.log(myName,"Not Eligable")
+    }
+
+}
+dl("John",21);
+
+  
+
+
